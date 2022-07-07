@@ -11,7 +11,7 @@ jobs:
    #   docker:
     #    - image: 
      # steps:
-        - checkout # check out the code in the project directory
+      #  - checkout # check out the code in the project directory
       #  - run: echo "hello world" # run the `echo` command
 # Sequential workflow
   create_infrastructure:
